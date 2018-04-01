@@ -1,5 +1,5 @@
 
-setwd("/Users/byronking/joseguzman.github.io/")
+setwd("/Users/byronking/joseguzman/")
 
 #render your sweet site. 
 rmarkdown::render_site()

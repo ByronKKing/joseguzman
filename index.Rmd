@@ -2,6 +2,8 @@
 title: "Jose's Website"
 ---
 
-Hello, World!
+Hello, everyone! My name is Jose, and this is my website.
+
+![](jose-mug.jpg)
 
 
