@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "My TC Experience"
+      href: tc-experience.html
+    - text: "My Future"
+      href: future.html
 output:
   html_document:
     theme: united

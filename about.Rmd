@@ -1,6 +1,21 @@
 ---
 title: "About Me"
 ---
+<br />
 
-Why I am awesome. 
+## **Who Am I?**
+
+I am Jose and I was born in Chicago, Illinois. I have two siblings. I go to a school called Pulaski. Right now, my favorite subject is Science, though I also like P.E.. My best subject is math.
+
+## **This is My Key Info**
+
+* **Name:** Jose Guzman
+* **Home Town:** Chicago
+* **School:** Pulaski
+
+## **My Skills **
+
+* **Best Subject:** Math
+* **Languages:** English, Spanish
+* **Education:** K-6th Grade
 

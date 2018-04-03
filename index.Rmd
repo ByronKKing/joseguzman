@@ -4,6 +4,8 @@ title: "Jose's Website"
 
 Hello, everyone! My name is Jose, and this is my website.
 
+> Learn as if you were to live forever.
+
 ![](jose-mug.jpg)
 
 
